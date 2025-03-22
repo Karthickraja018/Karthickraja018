@@ -1,5 +1,13 @@
-<h1 align="center">👋 Hi there, I'm Karthick Raja!</h1>
-<h3 align="center">Aspiring Data Analyst & Machine Learning Enthusiast | B.Tech - AIML</h3>
+<!-- Banner / Intro GIF -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FEEF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Karthick+Raja!;Welcome+to+my+GitHub+Profile+🚀;AI+%7C+ML+%7C+Data+Analytics+Enthusiast+%F0%9F%94%8E" alt="Typing SVG" />
+</p>
+
+---
+
+<h1 align="center">👋 Hello World!</h1>
+<h3 align="center">B.Tech | Artificial Intelligence & Machine Learning </h3>
+<h4 align="center"><i>“Learn. Build. Repeat. 🚀”</i></h4>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Karthickraja018&label=Profile%20views&color=0e75b6&style=flat" alt="Karthickraja018" />
@@ -32,17 +40,17 @@ Voice-controlled assistant to perform desktop automation and info retrieval.
 🛠️ *SpeechRecognition, pyttsx3, Python*
 
 🔗 *Check out more in my GitHub Repos!*
-
+    https://github.com/Karthickraja018?tab=repositories
 ---
 
 ## 🛠️ Skills & Technologies
 
 <h4 align="center">Languages</h4>
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
 
 <h4 align="center">Frameworks & Libraries</h4>
@@ -52,7 +60,7 @@ Voice-controlled assistant to perform desktop automation and info retrieval.
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-007ACC?style=for-the-badge&logo=matplotlib&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/>
 </p>
 
 <h4 align="center">Tools & Platforms</h4>
@@ -67,33 +75,30 @@ Voice-controlled assistant to perform desktop automation and info retrieval.
 
 ---
 
-## 🌟 Highlights
+## 📬 Connect with Me
 
-- 🏆 **Machine Learning Intern @ Cognifyz Technologies**
-  - Worked on model building and data preprocessing for real-world ML tasks.
-
-- 📜 **Certifications**  
-  - Infosys Springboard: Machine Learning, DBMS  
-  - NPTEL: Computer Vision  
-  - Skillible: Generative AI  
-
-
----
-
-## 📫 Connect with Me
-
-- 📧 [e.karthickraja2004@gmail.com](mailto:e.karthickraja2004@gmail.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/karthick-raja-e-2004-aiml)  
-- 💻 [GitHub](https://github.com/Karthickraja018)  
-- 🧠 [LeetCode](https://leetcode.com/u/karthick004/)
+<p align="center">
+  <a href="mailto:e.karthickraja2004@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/karthick-raja-e-2004-aiml" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Karthickraja018" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/u/karthick004/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+</p>
 
 ---
 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Karthickraja018&show_icons=true&theme=dracula" height="180px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Karthickraja018&theme=dracula" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Karthickraja018&show_icons=true&theme=tokyonight" height="180px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Karthickraja018&theme=tokyonight" height="180px"/>
 </p>
 
 ---
@@ -109,4 +114,6 @@ Voice-controlled assistant to perform desktop automation and info retrieval.
 
 ---
 
-✨ *Thanks for stopping by! Let’s build, learn, and grow together!* 🚀
+<p align="center">
+  <b>✨ Thanks for visiting! Let’s connect, collaborate, and build something awesome. 🚀</b>
+</p>
