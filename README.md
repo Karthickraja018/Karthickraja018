@@ -1,70 +1,110 @@
-<h1 align="center">Hi 👋, I'm Karthick Raja</h1>
-<h3 align="center">Aspiring Data Analyst & Machine Learning Enthusiast from Coimbatore, India</h3>
+# 👋 Hi there, I'm Karthick Raja!
+Welcome to my GitHub profile! 🚀  
+I'm a tech enthusiast passionate about Data Analytics, Machine Learning, and building smart AI-powered tools.
+
+---
+
+## 👨‍💻 About Me
+
+🌱 **Aspiring Developer**: Always curious about AI, machine learning, and data science.  
+🧠 **Creative Problem Solver**: I enjoy turning real-world problems into intelligent solutions.  
+📊 **Data-Driven Thinker**: Love diving into data and extracting insights that drive impact.  
+🌟 **Lifelong Learner**: Continuously upskilling through hands-on projects, certifications, and internships.  
+🌐 **Visionary Builder**: Focused on creating tools that improve everyday life and decision-making.
+
+---
+
+## 📌 Featured Projects
+
+### 🧠 Data Visualization AI  
+📌 **Description**: An AI-powered platform that creates interactive and insightful visualizations using Streamlit and Matplotlib.  
+🔗 *Technologies*: Python, Streamlit, Pandas, Generative AI
+
+---
+
+### 🖱️ Virtual Mouse using Gestures  
+📌 **Description**: Built a virtual mouse that responds to hand gestures — touch-free interaction using computer vision!  
+🔗 *Technologies*: Python, OpenCV, Mediapipe
+
+---
+
+### 🗣️ Jarvis-Inspired Virtual Assistant  
+📌 **Description**: A desktop voice assistant that automates tasks and retrieves real-time information on voice command.  
+🔗 *Technologies*: Python, SpeechRecognition, pyttsx3
+
+---
+
+### 💡 More Projects  
+Check out my GitHub repositories to explore more exciting AI and ML-based solutions!
+
+---
+
+## 🛠️ Technical Skills
+
+**Languages & Tools**  
+🟢 Python, Java, C  
+📦 Pandas, NumPy, Matplotlib, OpenCV, Streamlit  
+🔧 Git, GitHub, Postman, MS Excel, VS Code  
+🖥️ Flask, Mediapipe  
+📊 MySQL
+
+**Domains of Expertise**  
+- Data Analysis & Visualization  
+- Machine Learning Model Building  
+- Computer Vision Projects  
+- API Integration & Deployment
+- Web Development
+
+---
+
+## 🌟 Career Highlights
+
+🏆 **ML Intern @ Cognifyz Technologies**  
+Worked on real-world datasets, improved model performance, and applied preprocessing techniques to enhance quality.
+
+🏆 **Certified Learner**  
+- 📘 DBMS – Infosys Springboard  
+- 🤖 ML – Infosys Springboard  
+- 👁️‍🗨️ Computer Vision – NPTEL  
+- 🧠 GenAI – Skillible
+- 🐍 Python - Prepinsta
+
+---
+
+## 💡 Fun Facts
+
+🚀 I love experimenting with AI ideas and turning them into useful apps.  
+📚 Outside coding, I enjoy learning about new tech and exploring nature.  
+
+---
+
+## 📬 Connect with Me
+
+📧 Email: [e.karthickraja2004@gmail.com](mailto:e.karthickraja2004@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/karthick-raja-e-2004-aiml)  
+💻 [GitHub](https://github.com/Karthickraja018)  
+🧠 [LeetCode](https://leetcode.com/u/karthick004/)
+
+---
+
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Karthickraja018&label=Profile%20views&color=0e75b6&style=flat" alt="Karthickraja018" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Karthickraja018&show_icons=true&theme=radical" height="180px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Karthickraja018&theme=radical" height="180px"/>
 </p>
 
 ---
 
-### 👨‍💻 About Me
-
-🎓 I'm currently pursuing **B.Tech in Artificial Intelligence & Machine Learning** at SNS College of Technology  
-📊 I love working with **data**, solving real-world problems with **ML & analytics**, and building intuitive **AI-based applications**  
-💡 Always eager to explore emerging technologies like **Generative AI, Computer Vision, and Automation**  
-📍 Based in Coimbatore, Tamil Nadu  
-🏆 Department First – 3rd Semester | Top 5 in HSC School Exams
-
----
-
-### 🛠️ Skills & Tools
-
-#### 💻 Languages
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=fff)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-
-#### 📊 Data & Visualization
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-007ACC?style=for-the-badge&logo=matplotlib&logoColor=white)
-
-#### 🔧 Tools & Frameworks
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
----
-
-### 🧠 Projects
-
-- 🧩 [Data Visualization AI](https://github.com/Karthickraja018) – Generative AI + Streamlit + Matplotlib  
-- 🎮 [Virtual Mouse using Hand Gestures](https://github.com/Karthickraja018) – OpenCV + Mediapipe + Python  
-- 🤖 [Jarvis-Inspired Assistant](https://github.com/Karthickraja018) – Python + Speech Recognition  
-
-> ✨ More projects coming soon. Stay tuned!
-
----
-
-### 📈 GitHub Stats
+## ❤ Views and Followers
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Karthickraja018&show_icons=true&theme=tokyonight" height="180px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Karthickraja018&theme=tokyonight" height="180px"/>
+  <img src="https://komarev.com/ghpvc/?username=Karthickraja018&label=Profile%20views&color=blue&style=flat" alt="Karthickraja018" />
+  <a href="https://github.com/Karthickraja018?tab=followers">
+    <img src="https://img.shields.io/github/followers/Karthickraja018?label=Follow&style=social" alt="GitHub Badge"/>
+  </a>
 </p>
 
 ---
 
-### 📫 Let's Connect!
-
-- 📧 [e.karthickraja2004@gmail.com](mailto:e.karthickraja2004@gmail.com)  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/karthick-raja-e-2004-aiml)  
-- 💻 [GitHub](https://github.com/Karthickraja018)  
-- 🧠 [LeetCode](https://leetcode.com/u/karthick004/)
-
----
-
-⭐ *Thanks for visiting my profile! Feel free to connect, collaborate, and code together!*
+✨ *Feel free to explore my projects, connect, collaborate, or just say hi!* 😊
